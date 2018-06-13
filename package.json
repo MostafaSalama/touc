@@ -1,17 +1,23 @@
 {
-  "name": "touchy",
-  "version": "1.0.0",
-  "description": "",
+  "name": "touc",
+  "version": "0.1.0",
+  "description": "a node.js command line for creating files and directories so easily ",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MostafaSalama/touchy.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "touchy": "./index.js"
+    "touc": "./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "command line"
+  ],
+  "author": "Mostafa Salama",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.15.1"
