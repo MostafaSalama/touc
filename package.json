@@ -1,6 +1,6 @@
 {
   "name": "touc",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "a node.js command line for creating files and directories so easily ",
   "main": "index.js",
   "repository": {
