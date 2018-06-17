@@ -17,7 +17,7 @@ To make sure that the package installed
 
 ## examples 
 `touc a b c d`
-this creates 3 4 directories 
+this creates  4 directories 
 
 if you want to specify extension 
 
