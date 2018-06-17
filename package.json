@@ -1,15 +1,13 @@
 {
   "name": "touc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a node.js command line for creating files and directories so easily ",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MostafaSalama/touc.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "bin": {
     "touc": "./index.js"
   },
